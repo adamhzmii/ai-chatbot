@@ -1,0 +1,47 @@
+PRODUCT: Nexus — Cloud Productivity & Storage Platform
+TAGLINE: Your workspace, anywhere.
+
+BILLING & PAYMENTS
+- Nexus offers three plans: Free (5GB storage), Pro (RM25/month, 1TB storage), and Business (RM75/month, 5TB storage + team features).
+- Bills are charged on the same date each month, aligned to your signup date.
+- Accepted payment methods: credit/debit card, online banking, and PayPal.
+- To cancel your subscription, go to Settings > Billing > Cancel Plan. Your Pro features remain active until the end of the current billing period.
+- Refunds are available within 7 days of a charge if you have not exceeded 1GB of Pro storage usage.
+- If a payment fails, Nexus retries after 3 days. After two failed attempts, the account is downgraded to Free.
+- To request an invoice or receipt, go to Settings > Billing > Download Invoice.
+
+TECHNICAL SUPPORT
+- If you cannot log in, first try resetting your password via the "Forgot Password" link on the login page.
+- If files are not syncing, try signing out of the desktop app and signing back in.
+- The Nexus desktop app supports Windows 10+, macOS 11+, and Ubuntu 20.04+.
+- Mobile apps are available on iOS 15+ and Android 10+.
+- Maximum single file upload size is 10GB on Pro and Business plans, 250MB on Free.
+- If the web app is slow or unresponsive, clear your browser cache or try an incognito window.
+- For persistent sync issues, navigate to Help > Send Diagnostic Report inside the desktop app.
+
+ACCOUNT MANAGEMENT
+- To change your email address, go to Settings > Account > Change Email. A verification link will be sent to the new address.
+- To change your password, go to Settings > Security > Change Password.
+- Two-factor authentication (2FA) can be enabled under Settings > Security > Two-Factor Auth. Supported methods: authenticator app and SMS.
+- To permanently delete your account, go to Settings > Account > Delete Account. This action is irreversible and all files will be erased after 30 days.
+- You can export all your data at any time via Settings > Account > Export Data (delivered as a .zip within 24 hours).
+
+STORAGE & FILES
+- Deleted files are kept in Trash for 30 days before permanent deletion. Pro users can restore any file within this window.
+- File versioning is available on Pro and Business plans — up to 180 days of version history per file.
+- You can share files or folders via a link. Link permissions can be set to View Only or Edit.
+- Shared links can be password-protected and set to expire on a specific date.
+- Storage is measured by total file size including all versions. Deleting old versions frees up storage.
+
+TEAMS & COLLABORATION (Business Plan)
+- Business plan admins can invite up to 50 members per workspace.
+- Admins can set per-member storage quotas and manage permissions under Workspace Settings > Members.
+- Real-time collaborative editing is supported for Nexus Docs and Nexus Sheets.
+- Activity logs for all workspace members are available under Workspace Settings > Audit Log.
+- Business plan includes priority 24/7 support with a 4-hour response SLA.
+
+GENERAL
+- Nexus status and incident reports are available at status.nexus.io.
+- Support is available via live chat (Pro/Business) or email at support@nexus.io (Free, 48-hour response).
+- The Nexus mobile app can be used offline — changes sync automatically when connection is restored.
+- Nexus is SOC 2 Type II certified and all files are encrypted at rest (AES-256) and in transit (TLS 1.3).
